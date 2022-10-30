@@ -1,0 +1,16 @@
+{
+"name": "mermaidrichespg",
+"theme": "mermaid riches pg",
+"version": "2.8.2",
+"description": "mermaid riches pg ทางเข้าเว็บสล็อตเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"mermaid riches pg",
+"mermaid riches pg เครดิตฟรี",
+"mermaid riches pg ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mermaidrichespg",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
